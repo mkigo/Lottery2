@@ -10,7 +10,7 @@
 
 效果如下：
 <br/>
-![image](https://github.com/weishaoying/Lottery2/blob/master/Pictrues/d2.jpg)
+![image](https://github.com/weishaoying/Lottery2/blob/master/Pictrues/d2.png)
 <br/><br/>
 动态演示效果：
 <br/>
@@ -20,12 +20,12 @@
 
 使用方法：<br/>
 下载后在bin\Release目录下有Lottery.exe可执行文件和Images目录<br/>
-![image](https://github.com/weishaoying/Lottery2/blob/master/Pictrues/d0.jpg)
+![image](https://github.com/weishaoying/Lottery2/blob/master/Pictrues/d0.png)
 <br/>
 <br/>
 在Pictures目录中放入需要抽奖的人员照片，命名格式为姓名.jpg/png/bmp
 
-![image](https://github.com/weishaoying/Lottery2/blob/master/Pictrues/d1.jpg)
+![image](https://github.com/weishaoying/Lottery2/blob/master/Pictrues/d1.png)
 <br/>
 
 
